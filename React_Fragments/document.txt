@@ -1,0 +1,7 @@
+In the index file  in the script tag i have added ReactFragment Component.
+
+In the used button tag to create button inside ReactFragment Component.
+
+Added event attribute to it and given onClick function with alert saying "Hello".
+
+After that rendered ReactFragment Component to root.
